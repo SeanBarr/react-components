@@ -21,6 +21,13 @@
 .divider {
   border-color: var(--primary);
   background-color: var(--primary);
+}
+
+.table{
+  background-color: #DFCFBE;
+}
+
+footer{
   text-align: center;
 }
 
